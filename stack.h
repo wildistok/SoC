@@ -1,5 +1,8 @@
+#include <stdlib.h>
+#include <stdio.h>
+
 #ifndef MAX_SIZE
-#define MAX_SIZE 3
+#define MAX_SIZE 100
 
 typedef struct stack char_stack_t;
 
